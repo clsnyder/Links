@@ -1,8 +1,6 @@
 ![](https://github.com/clsnyder/Links/blob/master/Background.jpg)
 
 
-
-
 ###Blogs
 [GS](http://extragoodshit.phlap.net/)   
 [Charlie Stross](http://www.antipope.org/charlie/blog-static/)  
@@ -13,32 +11,30 @@
 [Terpstra](http://brettterpstra.com/)
 
 ### Cool
-[Daylight Explorer](http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html)
-1. [[http://givemesomethingtoread.com/][Time Zones]]
-1. [[http://www.quora.com/home/][Quora]]
-1. [[http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html][Daylight Explorer]]
-* Entertainment
-1. [[http://www.pandora.com/#/][Pandora]]   
-[a link](http://example.com)
-* Fitness
+[Daylight Explorer](http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html)   
+[Give me Something to Read](http://givemesomethingtoread.com/)   
+[Quora](http://www.quora.com/home/)   
+[Daylight Explorer](http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html)  
 
-* Google
-1. [[https://mail.google.com/mail/?shva%3D1#inbox][GMail]]
-2. [[https://www.google.com/reader/view/?tab%3Dmy][GReader]]
-3. [[https://www.google.com/calendar/render?hl%3Den&tab%3Dvc&gsessionid%3DOK][GCal]]
-4. [[https://docs.google.com/][G Docs]]
-5. [[http://www.google.com/webhp?tbo%3Du&tbs%3Dvid:1&source%3Dog&sa%3DN&hl%3Den&tab%3Dpv][iGoogle]]
-6. [[https://groups.google.com/forum/#!overview][GGroups]]
-7. [[http://translate.google.com/#][GTranslate]]
-8. [[http://news.google.com/nwshp?hl%3Den&tab%3Dcn][GNews]]
-9. [[http://maps.google.com/][GMaps]]
-10. [[http://://picasaweb.google.com/home?tab%3Dmq][Picasa]]
-11. [[http://www.google.com/finance][GFinance]]
-12. [[http://books.google.com/books?uid%3D14215565351920914902&source%3Dgbs_lp_bookshelf_list][GLibrary]]
-13. [[http://scholar.google.com/schhp?hl%3Den&tab%3DTs][GScholar]]
-14. [[http://kathyschrock.net/googleblooms/][Google Taxonomy]]
+###Entertainment
 
-* News
+###Fitness
+
+###Google
+[GMail](https://mail.google.com/mail/?shva%3D1#inbox)   
+[GCal](https://www.google.com/calendar/render?hl%3Den&tab%3Dvc&gsessionid%3DOK)   
+[GDrive](https://drive.google.com/)   
+[GGroups](https://groups.google.com/forum/#!overview)   
+[GTranslate](http://translate.google.com/#)   
+[GNews](http://news.google.com/nwshp?hl%3Den&tab%3Dcn)   
+[GMaps](http://maps.google.com/)   
+[G Photo](http://://picasaweb.google.com/home?tab%3Dmq)   
+[GFinance](http://www.google.com/finance)   
+[GBooks](http://books.google.com/books?uid%3D14215565351920914902&source%3Dgbs_lp_bookshelf_list)   
+[GScholar](http://scholar.google.com/schhp?hl%3Den&tab%3DTs)   
+[GTaxonomy](http://kathyschrock.net/googleblooms/)   
+
+###News   
 1. [[http://news.ycombinator.com/][Hacker News]]
 2. [[http://www.clswiki.clsnyder.com/][My Wiki]] 
 3. [[http://en.akihabaranews.com/][Akihabara News]]
